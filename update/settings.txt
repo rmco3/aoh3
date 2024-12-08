@@ -1,0 +1,2 @@
+indirmeYolu=
+otomatikKapat=False
